@@ -1,7 +1,7 @@
 
 # Vota
 
-**Vota** is a full-stack web application developed using Java, Spring Boot, React, Vite, PostgreSQL, and Axios. This project aims to streamline user interactions and enhance user experience with a responsive and secure interface.
+**Vota** is a full-stack voting application developed using Java, Spring Boot, React, Vite, PostgreSQL, and Axios. This project aims to streamline user interactions and enhance user experience with a responsive and secure interface while voting on internal matters in the workplace.
 
 ## Technologies Used
 
